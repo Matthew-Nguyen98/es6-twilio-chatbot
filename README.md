@@ -16,6 +16,6 @@ Marking
 |spelling and grammar|10|
 |on time|10|
 
-
+to build and run project run npm install and then npm start. or go to link: https://mnguyen-chatbot.herokuapp.com/ to view on web
 
 
